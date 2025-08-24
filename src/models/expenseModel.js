@@ -1,4 +1,3 @@
-// src/models/expenseModel.js
 const mongoose = require("mongoose");
 
 // Estrutura de um gasto
